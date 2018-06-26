@@ -1,0 +1,6 @@
+#ifndef FUNÇAO_H
+#define FUNÇAO_H
+
+#endif // FUNÇAO_H
+int matriz(int x);
+void opcao(void);

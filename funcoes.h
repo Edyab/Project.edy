@@ -1,0 +1,17 @@
+float a[20][20], b[20][20], c[20][20];
+int nla, nca;
+int nlb, ncb;
+int nlc, ncc;
+void aleta();
+void aletb();
+void elema();
+void elemb();
+void soma();
+void subst();
+void produto();
+void imprimira();
+void imprimirb();
+void imprimirc();
+void arqreada();
+void arqreadb();
+void arqwritec();
